@@ -1,0 +1,22 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: potoolsExample 0.0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-03-20 18:42+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CHARSET\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: add.R:7
+#, c-format
+msgid "add() only works on all-integer input, but found other types: %s"
+msgstr ""
+
+#: onLoad.R:2
+#, c-format
+msgid "Launching %s / %s \\n"
+msgstr ""
