@@ -1,4 +1,4 @@
-# Easy task result
+# Hard task result
 
 ## The Task
 
